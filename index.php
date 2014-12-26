@@ -40,7 +40,7 @@
 					<div class="title">Inscr&iacute;bete y disfruta tu verano  </div>
 					<div class="text">
 						V&aacute;lido solamente para una compra durante este verano al lugar de tus vacaciones.<br/>
-						Â¡Estamos donde tus vacaciones est&aacute;n, este a&ntilde;o nuevos despachos, Rapel y Vichuqu&eacute;n!
+						¡Estamos donde tus vacaciones est&aacute;n, este a&ntilde;o nuevos despachos, Rapel y Vichuqu&eacute;n!
 					</div>
 				</div>
 				<div class="despacho_bottom">
