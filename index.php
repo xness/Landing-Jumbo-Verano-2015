@@ -80,8 +80,7 @@
 					<div id="maps"></div>
 				</div>
 				<div class="formulario_bottom">
-					*Todo usuario que complete el formulario obtendr&aacute; servicio/despacho a $1, que podr&aacute; usar en la primera compra con despacho a su lugar de vacaciones de verano.
-					El correo ser&aacute; enviado a partir del 29 de diciembre de 2014, en forma de cup&oacute;n de descuento al correo electr&oacute;nico inscrito en el formulario.
+					*Todo usuario que complete el formulario obtendr&aacute; autom&aacute;ticamente una caja de regalos especial verano en su primera compra con despacho al lugar de sus vacaciones. La vigencia del regalo ser&aacute; desde el 5/01/2015 hasta 16/02/2015 o hasta agotar stock.
 				</div>
 			</div>
 			<div class="gracias">
