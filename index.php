@@ -34,17 +34,10 @@
 			</div>
 			<div class="despacho">
 				<div class="despacho_top">
-					<a href="#form"><img src="images/despacho.jpg" alt="" /></a>
+					<a href="#form"><img src="images/btn.jpg" alt="" /></a>
 				</div>
-				<div class="despacho_text">
-					<div class="title">Inscr&iacute;bete y disfruta tu verano  </div>
-					<div class="text">
-						V&aacute;lido solamente para una compra durante este verano al lugar de tus vacaciones.<br/>
-						¡Estamos donde tus vacaciones est&aacute;n, este a&ntilde;o nuevos despachos, Rapel y Vichuqu&eacute;n!
-					</div>
-				</div>
-				<div class="despacho_bottom">
-					<img src="images/camion.jpg" alt="" />
+				<div class="despacho_top">
+					<img src="images/txt_bajo.jpg" alt="" />
 				</div>
 			</div>
 			<div class="formulario" id="form">

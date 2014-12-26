@@ -53,6 +53,7 @@ body{
     .slider img{
         height: 100%;
         width: 100%;
+		vertical-align: top;
     }
 
 .despacho{
@@ -65,7 +66,11 @@ body{
         display: block;
         margin: 0;
         padding: 0;
-		background: #089b93;
+		/*background: #089b93;*/
+    }
+	
+	.despacho .despacho_top a img{
+        vertical-align: top;
     }
 
     .despacho .despacho_text{
